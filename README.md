@@ -1,2 +1,5 @@
-# UCAS-COURSE-COD_Lab
-[UCAS COURSE]  COD Lab by 张科/常轶松
+中国科学院大学 张科/常轶松 计算机组成原理研讨课
+
+包括prj1~prj5的项目代码
+
+其中prj5的选做实验中的DMA和SoC由于时间和能力原因没有完成qwq
